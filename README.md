@@ -9,3 +9,5 @@ This repository contains code and projects developed during my learning journey 
      
 3) **Museum of Modern Art Data cleaning with Python**  
    Data from New York City's Museum of Modern Art cleaned with python.
+   * museum_of_modern_art_data_cleaning.ipynb  
+   * dataset: artworks.csv
