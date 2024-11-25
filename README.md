@@ -15,5 +15,5 @@ This repository contains code and projects developed during my learning journey 
    * dataset: artworks.csv
   
 3) **Hacker News Data Exploring with Python**  
-   Comparison of two types of posts from Hacker News
+   Comparison of two types of posts from Hacker News.
    * hacker_news_posts.ipynb
