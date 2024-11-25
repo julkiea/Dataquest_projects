@@ -9,7 +9,11 @@ This repository contains code and projects developed during my learning journey 
    * nyc_taxis.ipynb
    * dataset: nyc_taxis.csv
      
-3) **Museum of Modern Art Data cleaning with Python**  
+2) **Museum of Modern Art Data cleaning with Python**  
    Data from New York City's Museum of Modern Art cleaned with python.
    * museum_of_modern_art_data_cleaning.ipynb  
    * dataset: artworks.csv
+  
+3) **Hacker News Data Exploring with Python**
+   Comparison of two types of posts from Hacker News
+   * hacker_news_posts.ipynb
