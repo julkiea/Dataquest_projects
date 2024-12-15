@@ -17,3 +17,7 @@ This repository contains code and projects developed during my learning journey 
 3) **Hacker News Data Exploring with Python**  
    Comparison of two types of posts from Hacker News.
    * hacker_news_posts.ipynb
+
+4) **Exploring eBay Car Sales Data with Python**  
+   Data cleaning and analysis using pandas library.
+   * ebay_car_sales.ipynb
